@@ -1,5 +1,5 @@
 # AntiCMSP SPeak
-Script para retornar o gabarito de lições do SPeak
+Cansado de ter que pensar nas respostas das lições do SPeak? AntiCMSP SPeak chegou!
 
 ## Como utilizar?
 Instale o Tampermonkey no seu navegador e adicione o AntiCMSP SPeak.
